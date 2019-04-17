@@ -2,6 +2,35 @@ html {
     background-image: url("https://www.transparenttextures.com/patterns/absurdity.png");
 }
 
+.main {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.quoteCenter {
+    width: 60%;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+::selection{
+    background: gold;
+}
+
+::moz-selection {
+    background: gold;
+}
+
+h2 {
+    color: grey;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 32px;
+    margin: 0 0 72px;
+    text-align: center;
+}
+
 img {
     display: block;
     padding-top: 10vh;
@@ -12,7 +41,9 @@ img {
     max-width: 130px;
 }
 
-.main {
-    text-align: center;
-    font-family: sans-serif
+@media only screen and (max-width: 600px) {
+    .quoteCenter {
+        width: 80%;
+        margin: 0 auto;
+    }
 }
