@@ -18,9 +18,11 @@ html {
     left: 0;
     bottom: 0;
     width: 100%;
+    margin-right: 10px;
     background-color: transparent;
     color: dimgrey;
     text-align: right;
+    font-family: 'Raleway', sans-serif;
 }
 
 ::selection{
