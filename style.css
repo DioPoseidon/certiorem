@@ -74,6 +74,10 @@ img {
     background-color: #f2f2f2;   
 }
 
+.quotes tr:nth-child(odd) {
+    background-color: #fff;
+}
+
 .quotes tr:hover {background-color: #ddd;}
 
 .quotes th {
