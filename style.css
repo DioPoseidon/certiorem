@@ -2,6 +2,10 @@ html {
     background-image: url("https://www.transparenttextures.com/patterns/absurdity.png");
 }
 
+.footertext {
+    padding-right: 10px;
+}
+
 .main {
     text-align: center;
     font-family: sans-serif;
