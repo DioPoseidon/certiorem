@@ -2,10 +2,6 @@ html {
     background-image: url("https://www.transparenttextures.com/patterns/absurdity.png");
 }
 
-.footertext {
-    padding-right: 10px;
-}
-
 .main {
     text-align: center;
     font-family: sans-serif;
@@ -28,6 +24,14 @@ html {
     font-family: 'Raleway', sans-serif;
     font-weight: 300;
     font-size: 18px;
+}
+
+.author {
+    text-align: right;
+    color: dimgrey;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
 }
 
 ::selection{
