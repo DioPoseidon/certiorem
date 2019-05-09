@@ -20,9 +20,11 @@ html {
     width: 100%;
     margin-right: 10px;
     background-color: transparent;
-    color: dimgrey;
+    color: grey;
     text-align: right;
     font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
 }
 
 ::selection{
