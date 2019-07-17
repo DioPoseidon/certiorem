@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Chakra+Petch:300&display=swap');
+
 html {
     background-image: url("https://www.transparenttextures.com/patterns/absurdity.png");
 }
@@ -14,7 +16,7 @@ html {
 }
 
 .footer {
-    position: fixed;
+    /*position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -23,7 +25,16 @@ html {
     text-align: right;
     font-family: 'Raleway', sans-serif;
     font-weight: 300;
-    font-size: 18px;
+    font-size: 18px;*/
+    position: absolute;
+    bottom: 0;
+    color: grey;
+    width: 100%;
+    height: 60px;
+    background: transparent;
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: 'Chakra Petch', sans-serif;
 }
 
 .author {
