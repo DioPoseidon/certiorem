@@ -16,16 +16,6 @@ html {
 }
 
 .footer {
-    /*position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: transparent;
-    color: grey;
-    text-align: right;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 300;
-    font-size: 18px;*/
     position: absolute;
     bottom: 0;
     color: grey;
@@ -39,7 +29,7 @@ html {
 
 .author {
     text-align: right;
-    color: dimgrey;
+    color: grey;
     font-family: 'Raleway', sans-serif;
     font-weight: 300;
     font-size: 16px;
