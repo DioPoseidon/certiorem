@@ -109,7 +109,7 @@ img {
     }
 }
 
-@media only screen and (max-width: 460px) {
+@media only screen and (max-height: 460px) {
     .footer p {
         display: none !important;
         visibility: hidden !important;
